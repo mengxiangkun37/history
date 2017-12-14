@@ -1,0 +1,142 @@
+.container{
+	width: 100%;
+}
+.wrapper{	
+	width: 1220px;
+	height: 370px;
+	margin: 0 auto;
+}
+.content{
+	width: 300px;
+	overflow: hidden;
+	padding:0  10px;
+	float: left;
+}
+.content a{
+	text-decoration: none;
+}
+.tit{
+	border:1px solid #e7decf;
+	width: 300px;
+	height: 50px;
+	background: rgba(177, 171, 171, 0.33);
+}
+.tit h3{
+	font-size: 18px;
+	display: inline-block;
+	color: rgb(177, 122, 19);
+	margin-left:110px;
+}
+.con{
+	border:1px solid #e7decf;
+	width: 300px;
+	height: 300px;
+	background: #f8f4eb;
+}
+.con a{
+	color: rgba(97, 13, 13, 0.69);
+	font-size: 14px;
+}
+.con li{
+	margin:10px;
+}
+
+h2{
+	font-weight:600;
+}
+.con1{
+	height:390px;
+}
+.con1 h2{
+	width: 1190px;
+	margin-left:10px;
+	text-align:center;
+	line-height: 40px;
+	font-size:20px;
+	height:40px;
+	color: #910f0f;
+	background:url("../images/bgtit_03.png");
+	border-top: 2px solid #8f683f;
+	padding: 0 10px;
+}
+.con2{
+	height:390px;
+}
+
+.con2 h2{
+	width: 1190px;
+	margin-left:10px;
+	text-align:center;
+	line-height: 40px;
+	font-size:20px;
+	height:40px;
+	color: #910f0f;
+	background:url("../images/bgtit_03.png");
+	border-top: 2px solid #8f683f;
+	padding: 0 10px;
+}
+
+
+.con2_img1{
+	float:left;
+	margin-left:10px;
+	text-align: center;
+	font-size:18px;
+}
+
+.img1{
+	border:5px solid #f8f4e1;
+	width: 440px;
+	height:317px;
+}
+.img1 img{
+	width: 430px;
+	height: 307px;
+}
+.con2_img2{
+	float:left;
+	margin-left:10px;
+	text-align: center;
+	font-size:12px;
+}
+
+.img2{
+	border:5px solid #f8f4e1;
+	width: 240px;
+	height:145px;
+}
+.img2 img{
+	width: 230px;
+	height: 135px;
+}
+
+.con3 h2{
+	width: 1190px;
+	margin-left:10px;
+	text-align:center;
+	line-height: 40px;
+	font-size:20px;
+	height:40px;
+	color: #910f0f;
+	background:url("../images/bgtit_03.png");
+	border-top: 2px solid #8f683f;
+	padding: 0 10px;
+}
+.con3_content{
+	margin-left:10px;
+	width: 1190px;
+	height: 100px;
+	border: 2px solid #e7decf;
+}
+.con3_content li{
+	height: 100px;
+	float:left;
+	margin:22px;
+	line-height: 60px;
+}
+.con3_content li a{
+	color:#000000;
+	text-decoration: none;
+}
+
+

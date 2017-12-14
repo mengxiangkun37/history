@@ -1,0 +1,30 @@
+.reg{
+	width: 400px;
+	height: 300px;
+	background: #fff;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -150px;
+	margin-top: -150px;
+	border-radius: 10%;
+	border: 1px solid #e7decf;
+	font-size: 18px;
+}
+.reg input{
+	border: 1px solid rgba(45, 35, 35, 0.45);
+	border-radius: 5%;
+}
+.reg_one{
+	margin-top: 20px;
+}
+.reg div{
+	margin-left: 20px;
+	width: 300px;
+	height: 50px;
+}
+#reg_btn{
+	background:rgba(38, 56, 72, 0.75);
+	margin-left: 160px;
+	margin-top: 20px;
+}

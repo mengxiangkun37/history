@@ -1,0 +1,40 @@
+.login{
+	width: 350px;
+	height: 300px;
+	background: #fff;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -150px;
+	margin-top: -150px;
+	border-radius: 10%;
+	border: 1px solid #e7decf;
+	font-size: 18px;
+}
+.login input{
+	border: 1px solid rgba(45, 35, 35, 0.45);
+	border-radius: 5%;
+}
+.login a{
+	position: absolute;
+	top: 180px;
+	right: 10px;
+	color: #000;
+}
+.login_one{
+	margin-top: 50px;
+}
+.login div{
+	margin-left: 20px;
+	width: 300px;
+	height: 50px;
+}
+#login_btn{
+	margin-left: 130px;
+	margin-top: 60px;
+	background:rgba(38, 56, 72, 0.75);
+}
+#login_btn1{
+	margin-left: 120px;
+	margin-top: 60px;
+}
